@@ -1,15 +1,15 @@
 # Table of contents
 
-[README](<JZHO - Horizon/README.md>)
+[README](<README.md>)
 
-[LICENSE](<JZHO - Horizon/LICENSE.md>)
+[LICENSE](<LICENSE.md>)
 
-[COPYRIGHT](<JZHO - Horizon/COPYRIGHT.md>)
+[COPYRIGHT](<COPYRIGHT.md>)
 
 
 ## 序言
 * [序](<序：在视界之外，重构你的世界.md>)
-* [关于我](<JZHO- Horizon/关于我.md>)
+* [关于我](<关于我.md>)
 
 ## 第一章：破壁
 * [1.1 信息围墙 - 你被困住了吗？](<Chapters/Part1 破壁/1.1 信息围墙 - 你被困住了吗？.md>)
