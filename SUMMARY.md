@@ -26,8 +26,13 @@
 * [2.4 AI 学习法 - 让 AI 成为你的私教](<Chapters/Part2 共生/2.4 AI 学习法 - 让 AI 成为你的私教.md>)
 * [2.5 AI 创作流 - 从想法到成果](<Chapters/Part2 共生/2.5 AI 创作流 - 从想法到成果.md>)
 * [2.6 AI 伦理与边界 - 聪明人的清醒](<Chapters/Part2 共生/2.6 AI 伦理与边界 - 聪明人的清醒.md>)
-* [2.7 实战演练 - 搭建你的 AI 工作流](<Chapters/Part2 共生/2.7 实战演练 - 搭建你的 AI 工作流.md>)
+* [2.7 认知跃迁 - 从“聊天框”到 Agent 与 Skill](<Chapters/Part2 共生/2.7 认知跃迁 - 从“聊天框”到 Agent 与 Skill.md>)
+* [2.8 自动化与工作流 - 扣子与 n8n 的实操演练](<Chapters/Part2 共生/2.8 自动化与工作流 - 扣子与 n8n 的实操演练.md>)
+* [2.9 AI 编程启蒙 - 让 AI 写出你的第一个应用](<Chapters/Part2 共生/2.9 AI 编程启蒙 - 让 AI 写出你的第一个应用.md>)
+* [2.10 AI 短剧制作 - 一个人就是电影制片厂](<Chapters/Part2 共生/2.10 AI 短剧制作 - 一个人就是电影制片厂.md>)
 * [Skill 蒸馏是个体永生的基石](<Chapters/Part2 共生/Skill 蒸馏是个体永生的基石.md>)
+* [2.11 自主智能体落地 - 部署你的第一个“龙虾”（OpenClaw）数字员工](<Chapters/Part2 共生/2.11 自主智能体落地 - 部署你的第一个“龙虾”（OpenClaw）数字员工.md>)
+* [2.12 实战演练 - 搭建你的 AI 工作流](<Chapters/Part2 共生/2.12 实战演练 - 搭建你的 AI 工作流.md>)
 
 ## 第三章：觉醒
 * [3.1 一人公司（OPC） - 未来职场的终极形态](<Chapters/Part3 觉醒/3.1 一人公司（OPC） - 未来职场的终极形态.md>)
